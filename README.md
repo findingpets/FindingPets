@@ -31,5 +31,6 @@ User story(optional)
 4. A banner adverticement view at the bottom of each activity.
 5. A widget in launcher, which can show random awaiting-adopted animal information.
 
-[.gif for wireframe](https://files.slack.com/files-pri/T351FCRRA-F4H019Z6E/wireframe.gif)
+<img src='https://files.slack.com/files-pri/T351FCRRA-F4H019Z6E/wireframe.gif' title='Wireframe.gif' />
+
 
