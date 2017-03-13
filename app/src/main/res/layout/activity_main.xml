@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="findingpets.teamf.com.temp.MainActivity">
+    tools:context="findingpets.teamf.com.temp.com.teamf.findingpets.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"

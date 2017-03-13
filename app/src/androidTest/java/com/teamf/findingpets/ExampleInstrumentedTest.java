@@ -1,4 +1,4 @@
-package findingpets.teamf.com.temp;
+package com.teamf.findingpets;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

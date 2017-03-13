@@ -1,4 +1,4 @@
-package findingpets.teamf.com.temp;
+package com.teamf.findingpets;
 
 import org.junit.Test;
 
